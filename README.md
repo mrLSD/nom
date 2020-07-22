@@ -7,6 +7,7 @@
 [![Crates.io Version](https://img.shields.io/crates/v/nom.svg)](https://crates.io/crates/nom)
 [![Minimum rustc version](https://img.shields.io/badge/rustc-1.36.0+-lightgray.svg)](#rust-version-requirements)
 
+
 nom is a parser combinators library written in Rust. Its goal is to provide tools
 to build safe parsers without compromising the speed or memory consumption. To
 that end, it uses extensively Rust's *strong typing* and *memory safety* to produce
